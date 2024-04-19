@@ -1,7 +1,7 @@
 ### Fala ae!! Me chamo Luick Carvalho
 
-- 🔭 Hoje atuo como DevOps/Cloud.
-- 🌱 No momento Estudando Kubernetes and Desenvolvimento.
+- 🔭 Profissional focado em DevOps/Cloud.
+- 🌱 Se aprimorando em Kubernetes e Desenvolvimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luick-Tf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
